@@ -92,6 +92,17 @@ Algoritmo 9
 	Escribir " intercambio " intercambio, intercambio1, intercambio2 
 FinAlgoritmo
 
+Algoritmo 10
+	Escribir "base"
+	Leer base
+	Escribir "altura"
+	leer altura
+	area = base * altura
+	perimetro = 2 * base + 2 * altura
+	Escribir "Area es" area
+	Escribir "Perimetro es" perimetro
+FinAlgoritmo
+
 
 
 
