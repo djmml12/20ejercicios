@@ -81,7 +81,16 @@ Algoritmo 8
 	Escribir "El promedio es" prom;
 FinAlgoritmo
 
-
+Algoritmo 9
+	Escribir "introduzca A"
+	Leer A
+	Escribir "itroduzca B"
+	Leer B
+	intercambio = A + B
+	intercambio1 = A - B
+	intercambio2 = A - B
+	Escribir " intercambio " intercambio, intercambio1, intercambio2 
+FinAlgoritmo
 
 
 
