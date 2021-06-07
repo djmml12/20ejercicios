@@ -51,5 +51,12 @@ Algoritmo 5
 	Escribir "El número siguiente es" n+1
 FinAlgoritmo
 
+Algoritmo 6
+	al = aleatorio(0 - 200)
+	Escribir "Número Aleatorio ..." aleatorio(0.200)
+	
+FinAlgoritmo
+
+
 
 
