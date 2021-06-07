@@ -162,3 +162,20 @@ Algoritmo 14
 	Fin Si
 FinAlgoritmo
 
+
+Algoritmo 15
+	Escribir " num "
+	Leer num
+	Si num = 0 Entonces
+		Escribir " numero neutro "
+	SiNo
+		Si num > 0 Entonces
+			Escribir " numero positivo "
+		SiNo
+			Escribir "numero negativo "
+		Fin Si
+	Fin Si
+FinAlgoritmo
+
+
+
