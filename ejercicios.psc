@@ -178,4 +178,64 @@ Algoritmo 15
 FinAlgoritmo
 
 
+Algoritmo 16
+	Escribir "num1"
+	Leer num1
+	Escribir "num2"
+	Leer num2
+	Escribir "num3"
+	Leer num3
+	
+	
+	
+	
+	Si num1 > num2 Entonces
+		
+		
+		
+		Si num1 > num3 Entonces
+			Escribir "numero 1 es el mayor"
+		SiNo
+			
+			
+			
+			Si num3 > num2 Entonces
+				Escribir "numero 3 es el mayor"
+			SiNo
+				Escribir " numero 3 es el mayor "
+			Fin Si
+			
+			
+			
+			
+			
+		Fin Si
+		
+		
+		
+		
+		
+	SiNo
+		
+		
+		
+		Si num2 > num3 Entonces
+			Escribir " numero 2 es el mayor "
+			
+		SiNo
+			Escribir "numero 3 es el mayor"
+		Fin Si
+		
+		
+		
+		
+	Fin Si
+	
+	
+	
+	
+	
+FinAlgoritmo
+
+
 
