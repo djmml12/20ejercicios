@@ -128,5 +128,26 @@ Algoritmo 12
 FinAlgoritmo
 
 
+Algoritmo 13
+	p = PI
+	Escribir "radio"
+	Leer radio
+	Si radio > 0  Entonces
+		Escribir " ingresar altura "
+		Leer altura
+		Si altura > 0 Entonces
+			V = p * radio ^ 2 * altura
+			Escribir " el volumen es " V
+		SiNo
+			Escribir " no se puede calcular "
+		Fin Si
+	SiNo
+		Escribir " no se puede calcular "
+
+	Fin Si
+FinAlgoritmo
+
+
+
 
 
