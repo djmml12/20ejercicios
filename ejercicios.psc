@@ -32,3 +32,15 @@ Algoritmo 3
 	Escribir "El doble es" n2
 	Escribir "El triple es" n3
 FinAlgoritmo
+
+
+Algoritmo 4
+	Escribir "ingresar Número";
+	Leer n;
+	cuadrado = n * n
+	cubo = n * n * n
+	Escribir "el cuadrado es" cuadrado
+	Escribir "el cubo es" cubo
+FinAlgoritmo
+
+
