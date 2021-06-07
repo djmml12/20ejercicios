@@ -44,3 +44,12 @@ Algoritmo 4
 FinAlgoritmo
 
 
+Algoritmo 5
+	Escribir "ingresar número"
+	Leer n
+	nsiguiente = n+1
+	Escribir "El número siguiente es" n+1
+FinAlgoritmo
+
+
+
