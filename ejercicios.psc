@@ -22,3 +22,13 @@ Algoritmo 2
 		Escribir "No es la Capital de País"
 	Fin Si
 FinAlgoritmo
+
+
+Algoritmo 3
+	Escribir "introduzca n"
+	Leer n
+	n2 = n*2
+	n3 = n*3
+	Escribir "El doble es" n2
+	Escribir "El triple es" n3
+FinAlgoritmo
