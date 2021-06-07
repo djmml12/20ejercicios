@@ -239,3 +239,35 @@ FinAlgoritmo
 
 
 
+Algoritmo 17
+
+	Escribir " cateto1 "
+	leer cateto1 
+	Escribir " cateto2 "
+	Leer cateto2
+	Escribir " cateto3 "
+	Leer cateto3
+	
+	
+	Si cateto1 = cateto2 Entonces
+		Escribir "es quilatero"
+	SiNo
+		
+		
+		Si cateto1<>cateto2 Entonces
+			Escribir "es isóceles"
+		SiNo
+			Escribir "es escaleno"
+		Fin Si
+		
+		
+		
+		
+	Fin Si
+	
+	
+	
+FinAlgoritmo
+
+
+
