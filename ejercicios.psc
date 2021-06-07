@@ -57,6 +57,18 @@ Algoritmo 6
 	
 FinAlgoritmo
 
+Algoritmo 7
+	Escribir "introduzca n1"
+	Leer n1
+	Escribir "introduzca n2"
+	Leer n2
+	Escribir "introduzca n3"
+	Leer n3
+	suma = n1 + n2 + n3
+	prom = suma / 3
+	Escribir "El promedio es" prom;
+FinAlgoritmo
+
 Algoritmo 8
 	Escribir "introduzca n1"
 	Leer n1
@@ -68,6 +80,7 @@ Algoritmo 8
 	prom = suma / 3
 	Escribir "El promedio es" prom;
 FinAlgoritmo
+
 
 
 
