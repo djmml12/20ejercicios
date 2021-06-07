@@ -119,5 +119,14 @@ Algoritmo 11
 FinAlgoritmo
 
 
+Algoritmo 12
+	Escribir "temperatura en C"
+	Leer C
+	F = C * 1.8
+	FF = F+32
+	Escribir " Temperatura en Fº es " FF
+FinAlgoritmo
+
+
 
 
