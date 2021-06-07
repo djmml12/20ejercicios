@@ -149,5 +149,16 @@ FinAlgoritmo
 
 
 
-
+Algoritmo 14
+	Escribir " num1 "
+	Leer num1
+	Escribir " num2 "
+	Leer num2
+	r = num1 / num2
+	Si r > 0  Entonces
+		Escribir " num no divisible "
+	SiNo
+		Escribir " num es divisible "
+	Fin Si
+FinAlgoritmo
 
