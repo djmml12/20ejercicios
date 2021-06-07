@@ -105,5 +105,19 @@ FinAlgoritmo
 
 
 
+Algoritmo 11
+	Escribir "escribir valor en cm"
+	Leer cm
+	metro = cm / 100
+	yarda = cm / 91
+	pie = cm / 32
+	pulgada = cm / 2.54
+	Escribir "metro es" metro
+	Escribir "yarda es" yarda
+	Escribir "pie es" pie
+	Escribir "pulgada es" pulgada
+FinAlgoritmo
+
+
 
 
